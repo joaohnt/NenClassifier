@@ -23,5 +23,7 @@ O objetivo do programa é prever qual tipo de Nen alguem terá dado as seguintes
 | Personalidade                 | Hobbies                      | Reação                 | 
 |-------------------------------|------------------------------|------------------------|
 
-Para a previsão optei por utilizar a árvore de decisão por ser uma solução mais simples
-Taxa de acerto de apenas 33% por conta da base de dados extremamente pequena que eu utilizei, mas o objetivo disso é apenas praticar com algo que eu gosto, mas o algoritmo funciona e é isso tmj
+Para a previsão optei por utilizar a árvore de decisão por ser uma solução mais simples. 
+
+
+A taxa de acerto de apenas 33% por conta da base de dados extremamente pequena que eu utilizei, mas o objetivo disso é apenas praticar com algo que eu gosto, mas o algoritmo funciona e é isso tmj
