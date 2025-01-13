@@ -1,4 +1,7 @@
 # NenClassifier
+![image](https://github.com/user-attachments/assets/0f640f34-b210-4f55-a617-d3b76fcf1414)
+
+
 Projeto com machine learning baseado no anime hunter x hunter para prever uma habilidade
 
 O poder Nen em hunter x hunter é baseado na personalidade do indivíduo, que determina em qual tipo de Nen ele terá
