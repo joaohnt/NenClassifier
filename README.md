@@ -24,6 +24,7 @@ O objetivo do programa é prever qual tipo de Nen alguem terá dado as seguintes
 |-------------------------------|------------------------------|------------------------|
 
 Para a previsão optei por utilizar a árvore de decisão por ser uma solução mais simples. 
+![arvore_nen](https://github.com/user-attachments/assets/c83342ce-bc4c-4dd9-b19f-6edf6fb8ad5f)
 
 
-A taxa de acerto de apenas 33% por conta da base de dados extremamente pequena que eu utilizei, mas o objetivo disso é apenas praticar com algo que eu gosto, mas o algoritmo funciona e é isso tmj
+A taxa de acerto de apenas 33% por conta da base de dados extremamente pequena que eu utilizei, mas o objetivo disso é apenas praticar com algo que eu gosto, mas o algoritmo funciona e talvez um dia eu teste com uma planilha maior e com mais detalhes pra aumentar a % de acerto tmj
