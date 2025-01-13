@@ -20,7 +20,7 @@ Cada tipo de Nen na tabela foi baseado em um personagem do anime, ex:
 <br>
 
 O objetivo do programa é prever qual tipo de Nen alguem terá dado as seguintes informações: 
-| Personagem      | Personalidade                 | Hobbies                      | Reação                 | 
-|------------------|-------------------------------|------------------------------|------------------------|
+| Personalidade                 | Hobbies                      | Reação                 | 
+|-------------------------------|------------------------------|------------------------|
 
 Para a previsão optei por utilizar a árvore de decisão por ser uma solução mais simples
